@@ -45,7 +45,7 @@ Elbow method를 사용해 군집의 수를 구하고 아래 3가지 알고리즘
 
 - Spectral Clustering
 - Gaussian Mixture Clustering
-- Gaussian Mixture Clustering
+- K-Medoids Clustering
 
 ## 최종 시각화
 
