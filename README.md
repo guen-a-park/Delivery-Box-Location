@@ -63,7 +63,7 @@ Elbow method를 사용해 군집의 수를 구하고 아래 3가지 알고리즘
 
 따라서 우리는 유동인구도 많고 주민들이 안전하다고 느낄 수 있는 지하철역, 그리고  관공서에 우선적으로 무인 택배함을 설치하는 것을 목표로 하였다. 관공서 중에서는 국공립 도서관, 경찰서,소방서, 행정복지센터, 시청과 구청, 우체국 등을 우선 설치 지역으로 선정하였다.
 
-시각화 대상동은 **연희동, 한남동,개봉1동,화곡동**이다. 
+시각화 대상동은 **화곡1동,한남동,개봉1동,연희동**이다. 
 
 <img src="https://user-images.githubusercontent.com/77844152/136799385-6d18dd63-f066-4a6f-aa9b-f18d95e604bb.png" width="800" height="400">
 <img src="https://user-images.githubusercontent.com/77844152/136799107-b18ec9d4-bf82-46f0-af5e-cf66ce377a3a.png" width="800" height="400">
