@@ -3,6 +3,8 @@
 ![배너2](https://user-images.githubusercontent.com/77844152/136762796-dddfbee3-d27b-4c8c-a25c-c0a39d14e66b.PNG)
 (2021.09.06~2021.10.11)
 
+코드의 open in colab 버튼을 누르면 시각화파일의 원본 확인이 가능함.
+
 ## 목차
 - [프로젝트 목표](#프로젝트-목표)
 - [데이터 목록](#데이터-목록)
