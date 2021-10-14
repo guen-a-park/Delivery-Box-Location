@@ -72,7 +72,7 @@ Elbow method를 사용해 군집의 수를 구하고 아래 3가지 알고리즘
 시각화 대상동은 **화곡1동,한남동,개봉1동,연희동**이다. 
 
 <img src="https://user-images.githubusercontent.com/77844152/136799385-6d18dd63-f066-4a6f-aa9b-f18d95e604bb.png" width="800" height="400">
-<img src="https://user-images.githubusercontent.com/77844152/136799107-b18ec9d4-bf82-46f0-af5e-cf66ce377a3a.png" width="800" height="400">
+<img src="https://user-images.githubusercontent.com/77844152/137274148-6c37a127-3dd8-4372-a37a-bfcabb73f76f.png" width="800" height="400">
 
 
 ## 프로젝트 보고서
