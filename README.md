@@ -77,9 +77,8 @@ Elbow method를 사용해 군집의 수를 구하고 아래 3가지 알고리즘
 
 ## 프로젝트 보고서
 
-Click [Here](https://drive.google.com/file/d/1Lpa7W7CeAKZmVW951RScrL2dIgGH7Ls3/view?usp=sharing)
+Click [Here](https://drive.google.com/file/d/1f1LUHwrMC0ru1HfbPTfhrgSdGw9Nvjw_/view?usp=sharing)
 
-링크수정해야함
 
 
 ## Contributors
